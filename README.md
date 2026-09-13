@@ -1,5 +1,3 @@
-<h1 align="center">Tobias Manwaring</h1>
-
 Data Analyst with 6 years' experience applying statistical modelling and machine learning techniques like Bayesian regression, segmentation algorithms, and Monte Carlo simulation for risk and reliability modelling, alongside advanced SQL, custom dashboards, and automation bridging cloud and legacy systems. I hold a Master's in Integrated Machine Learning Systems from UCL.
 
 My personal projects span finance and machine learning, building neural networks and backtesting frameworks for commodities markets, and extend into networking and home labs, hosting open-source applications on self-managed servers as well as running media archives for my freelance videography work.
